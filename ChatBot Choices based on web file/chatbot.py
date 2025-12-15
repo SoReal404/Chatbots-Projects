@@ -8,7 +8,7 @@ app = Flask(__name__)
 
 # Neon-themed data loading
 def load_data():
-    url = "https://raw.githubusercontent.com/MarwanRTX/Chatbots-Projects/refs/heads/main/ChatBot%20Choices%20based%20on%20web%20file/prices.json"
+    url = "https://raw.githubusercontent.com/soreal404/Chatbots-Projects/refs/heads/main/ChatBot%20Choices%20based%20on%20web%20file/prices.json"
     try:
         response = requests.get(url)
         return json.loads(response.text)
@@ -35,4 +35,5 @@ def home():
     )
 
 if __name__ == '__main__':
+
     app.run(debug=True)
