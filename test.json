@@ -1,0 +1,32 @@
+{
+  "opportunities": [
+    {
+      "id": 1,
+      "title": "فرصة منح دراسية في الخارج",
+      "category": "grant",
+      "description": "منحة كاملة لدراسة الماجستير في أوروبا.",
+      "image": "https://via.placeholder.com/150",
+      "apply_link": "https://example.com/apply/grant1",
+      "phase": 1
+    },
+    {
+      "id": 2,
+      "title": "كورسات تعلم البرمجة للشباب",
+      "category": "course",
+      "description": "دورة مجانية لتعلم Python و Data Science.",
+      "image": "https://via.placeholder.com/150",
+      "apply_link": "https://example.com/apply/course1",
+      "phase": 1
+    },
+    {
+      "id": 3,
+      "title": "Event Tech Meetup",
+      "category": "event",
+      "description": "لقاء شبابي لتبادل خبرات التقنية.",
+      "image": "https://via.placeholder.com/150",
+      "apply_link": "https://example.com/apply/event1",
+      "phase": 2
+    }
+  ],
+ 
+}
