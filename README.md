@@ -59,7 +59,7 @@ AI chatbot powered by **Google Gemini 2.5 Flash** — AJAX-based, no page reload
 
 ![Screenshot](https://raw.githubusercontent.com/SoReal404/Chatbots-Projects/main/ChatBot%20API%20Based/Screenshot%202026-06-13%20040832.png)
 
-<video src="https://raw.githubusercontent.com/SoReal404/Chatbots-Projects/main/ChatBot%20API%20Based/Recording%202026-06-13%20041124.mp4" controls width="100%"></video>
+<video src="https://raw.githubusercontent.com/SoReal404/Chatbots-Projects/main/ChatBot%20API%20Based/vid.gif" controls width="100%"></video>
 
 ### 🚀 Features
 - Google Gemini AI with markdown responses
