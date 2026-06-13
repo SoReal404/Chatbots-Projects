@@ -59,7 +59,7 @@ AI chatbot powered by **Google Gemini 2.5 Flash** — AJAX-based, no page reload
 
 ![Screenshot](https://raw.githubusercontent.com/SoReal404/Chatbots-Projects/main/ChatBot%20API%20Based/Screenshot%202026-06-13%20040832.png)
 
-![Demo](https://raw.githubusercontent.com/MarwanRTX/Chatbots-Projects/main/vid.gif)
+![Demo](https://raw.githubusercontent.com/SoReal404/Chatbots-Projects/main/vid.gif)
 
 ### 🚀 Features
 - Google Gemini AI with markdown responses
@@ -95,17 +95,3 @@ Open `http://localhost:5000`
 |----------|-------------|
 | `GEMINI_API_KEY` | Google Gemini API key (required) |
 | `FLASK_DEBUG` | Set to `1` for debug mode |
-
----
-
-## 🤝 Contributing
-1. Fork the project
-2. Create a feature branch: `git checkout -b feature/AmazingFeature`
-3. Commit: `git commit -m 'Add feature'`
-4. Push: `git push origin feature/AmazingFeature`
-5. Open a Pull Request
-
-## ✉️ Contact
-**Marwan Mostafa** — [LinkedIn](https://www.linkedin.com/in/marwan-mostafa-712192212/) — marwan.d.2008@gmail.com
-
-Project Link: [https://github.com/SoReal404/Chatbots-Projects](https://github.com/SoReal404/Chatbots-Projects)
