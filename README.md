@@ -1,6 +1,6 @@
 # ChatBot ✨
 
-![Demo](https://raw.githubusercontent.com/MarwanRTX/Chatbots-Projects/main/chatbotgif.gif)
+![Demo](https://raw.githubusercontent.com/soreal404/Chatbots-Projects/main/chatbotgif.gif)
 
 ## 📂 Projects
 
@@ -28,7 +28,7 @@ A dynamic chatbot interface for modern businesses with a neon cyberpunk UI.
 ### 📸 Screenshots
 | Menu Interface | Response Display |
 |----------------|------------------|
-| ![Menu](https://raw.githubusercontent.com/MarwanRTX/Chatbots-Projects/main/chat.png) | ![Response](https://raw.githubusercontent.com/MarwanRTX/Chatbots-Projects/main/chat3.png) |
+| ![Menu](https://raw.githubusercontent.com/soreal404/Chatbots-Projects/main/chat.png) | ![Response](https://raw.githubusercontent.com/soreal404/Chatbots-Projects/main/chat3.png) |
 
 ### ⚙️ Installation
 ```bash
@@ -57,9 +57,9 @@ url = "https://your-json-data-source.json"
 
 AI chatbot powered by **Google Gemini 2.5 Flash** — AJAX-based, no page reloads.
 
-![Screenshot](https://raw.githubusercontent.com/SoReal404/Chatbots-Projects/main/ChatBot%20API%20Based/Screenshot%202026-06-13%20040832.png)
+![Screenshot](https://raw.githubusercontent.com/soreal404/Chatbots-Projects/main/ChatBot%20API%20Based/Screenshot%202026-06-13%20040832.png)
 
-![Demo](https://raw.githubusercontent.com/SoReal404/Chatbots-Projects/main/vid.gif)
+![Demo](https://raw.githubusercontent.com/soreal404/Chatbots-Projects/main/vid.gif)
 
 ### 🚀 Features
 - Google Gemini AI with markdown responses
